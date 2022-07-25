@@ -16,8 +16,7 @@
 class Example extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      //1️⃣
+    this.state = { //1️⃣
       count: 0,
     };
   }
